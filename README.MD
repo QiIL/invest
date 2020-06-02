@@ -1,7 +1,7 @@
 ### 这是我关于投资的学习和分享
 
 #### 目录
-- [HelloWorld](https://github.com/QiIL/invest/HelloWorld.MD)
+- [HelloWorld](https://github.com/QiIL/invest/blob/master/HelloWorld.MD)
 - 
 
 #### 喜欢可以关注我
