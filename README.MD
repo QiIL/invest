@@ -9,5 +9,7 @@
 - [扒一扒航运股（二）](https://github.com/QiIL/invest/blob/master/post/扒一扒航运股（二）.MD)
 - [扒一扒航运股（三）](https://github.com/QiIL/invest/blob/master/post/扒一扒航运股（三）.MD)
 - [八家上市航运公司业务图](https://github.com/QiIL/invest/blob/master/post/八家上市航运公司业务图.MD)
+- [海南自贸区的个人理解与白话翻译](https://github.com/QiIL/invest/blob/master/post/海南自贸区的个人理解与白话翻译.MD)
+- [复盘地摊经济以及海南自贸港的机会与逻辑](https://github.com/QiIL/invest/blob/master/post/复盘地摊经济以及海南自贸港的机会与逻辑.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://s1.ax1x.com/2020/06/02/tNfjnf.jpg)
