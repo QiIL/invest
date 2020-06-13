@@ -13,4 +13,4 @@
 - [复盘地摊经济以及海南自贸港的机会与逻辑](https://github.com/QiIL/invest/blob/master/post/复盘地摊经济以及海南自贸港的机会与逻辑.MD)
 - [高速公路行业浅析](https://github.com/QiIL/invest/blob/master/post/高速公路行业浅析.MD)
 #### 喜欢可以关注我
-![微信公众号：秋少耶](https://s1.ax1x.com/2020/06/02/tNfjnf.jpg)
+![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
