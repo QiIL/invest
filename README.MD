@@ -12,5 +12,7 @@
 - [海南自贸区的个人理解与白话翻译](https://github.com/QiIL/invest/blob/master/post/海南自贸区的个人理解与白话翻译.MD)
 - [复盘地摊经济以及海南自贸港的机会与逻辑](https://github.com/QiIL/invest/blob/master/post/复盘地摊经济以及海南自贸港的机会与逻辑.MD)
 - [高速公路行业浅析](https://github.com/QiIL/invest/blob/master/post/高速公路行业浅析.MD)
+- [学习看公司年度报告第一关：会计数据术语](https://github.com/QiIL/invest/blob/master/post/学习看公司年度报告第一关：会计数据术语.MD)
+- [学习看公司年度报告第二关：看懂业务](https://github.com/QiIL/invest/blob/master/post/学习看公司年度报告第二关：看懂业务.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
