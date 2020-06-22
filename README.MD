@@ -16,5 +16,6 @@
 - [学习看公司年度报告第二关：看懂业务](https://github.com/QiIL/invest/blob/master/post/学习看公司年度报告第二关：看懂业务.MD)
 - [江西长运2019年度报告的复制与解读](https://github.com/QiIL/invest/blob/master/post/江西长运2019年度报告的复制与解读.MD)
 - [关于年报读法的进一步思考](https://github.com/QiIL/invest/blob/master/post/关于年报读法的进一步思考.MD)
+- [不一样的运输公司分析&提一些关于教育的问题](https://github.com/QiIL/invest/blob/master/post/不一样的运输公司分析&提一些关于教育的问题.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
