@@ -17,5 +17,9 @@
 - [江西长运2019年度报告的复制与解读](https://github.com/QiIL/invest/blob/master/post/江西长运2019年度报告的复制与解读.MD)
 - [关于年报读法的进一步思考](https://github.com/QiIL/invest/blob/master/post/关于年报读法的进一步思考.MD)
 - [不一样的运输公司分析&提一些关于教育的问题](https://github.com/QiIL/invest/blob/master/post/不一样的运输公司分析&提一些关于教育的问题.MD)
+- [最后一波的公路行业分析](https://github.com/QiIL/invest/blob/master/post/最后一波的公路行业分析.MD)
+- [用来过度的杂谈](https://github.com/QiIL/invest/blob/master/post/用来过度的杂谈.MD)
+- [一大波纯粹的景点公司：张家界、黄山、峨眉山、天目湖](https://github.com/QiIL/invest/blob/master/post/一大波纯粹的景点公司：张家界、黄山、峨眉山、天目湖.MD)
+- [超级旅游公司分析&又发现一些问题了](https://github.com/QiIL/invest/blob/master/post/超级旅游公司分析&又发现一些问题了.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
