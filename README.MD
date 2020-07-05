@@ -21,5 +21,9 @@
 - [用来过度的杂谈](https://github.com/QiIL/invest/blob/master/post/用来过度的杂谈.MD)
 - [一大波纯粹的景点公司：张家界、黄山、峨眉山、天目湖](https://github.com/QiIL/invest/blob/master/post/一大波纯粹的景点公司：张家界、黄山、峨眉山、天目湖.MD)
 - [超级旅游公司分析&又发现一些问题了](https://github.com/QiIL/invest/blob/master/post/超级旅游公司分析&又发现一些问题了.MD)
+- [人其实更多时候比业务重要，尤其是国内](https://github.com/QiIL/invest/blob/master/post/人其实更多时候比业务重要，尤其是国内.MD)
+- [人口老龄化这么严重的话](https://github.com/QiIL/invest/blob/master/post/人口老龄化这么严重的话.MD)
+- [贵金属一览&锂矿产业的分析](https://github.com/QiIL/invest/blob/master/post/贵金属一览&锂矿产业的分析.MD)
+
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
