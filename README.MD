@@ -24,6 +24,7 @@
 - [人其实更多时候比业务重要，尤其是国内](https://github.com/QiIL/invest/blob/master/post/人其实更多时候比业务重要，尤其是国内.MD)
 - [人口老龄化这么严重的话](https://github.com/QiIL/invest/blob/master/post/人口老龄化这么严重的话.MD)
 - [贵金属一览&锂矿产业的分析](https://github.com/QiIL/invest/blob/master/post/贵金属一览&锂矿产业的分析.MD)
+- [牛市啦，牛市啦，但是不能停止学习](https://github.com/QiIL/invest/blob/master/post/牛市啦，牛市啦，但是不能停止学习.MD)
 
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
