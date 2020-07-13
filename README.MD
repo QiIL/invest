@@ -26,6 +26,7 @@
 - [贵金属一览&锂矿产业的分析](https://github.com/QiIL/invest/blob/master/post/贵金属一览&锂矿产业的分析.MD)
 - [牛市啦，牛市啦，但是不能停止学习](https://github.com/QiIL/invest/blob/master/post/牛市啦，牛市啦，但是不能停止学习.MD)
 - [洪水概念股可以有，以后要把文章写得更好看](https://github.com/QiIL/invest/blob/master/post/洪水概念股可以有，以后要把文章写得更好看.MD)
-
+- [别人恐惧我贪婪，别人贪婪我恐惧](https://github.com/QiIL/invest/blob/master/post/别人恐惧我贪婪，别人贪婪我恐惧.MD)
+- [农业股为什么这么猛？一波观点奉上](https://github.com/QiIL/invest/blob/master/post/别人恐惧我贪婪，别人贪婪我恐惧.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
