@@ -34,5 +34,7 @@
 - [31.踩坑记录&航空数据一览](https://github.com/QiIL/invest/blob/master/post/31.踩坑记录&航空数据一览.MD)
 - [32.一起看半年业绩（一）](https://github.com/QiIL/invest/blob/master/post/32.一起看半年业绩（一）.MD)
 - [33.国家加大投入的项目真的就一定能有巨大进步吗？](https://github.com/QiIL/invest/blob/master/post/33.国家加大投入的项目真的就一定能有巨大进步吗？.MD)
+- [34.tiktok的一点想法和分析近期投资热点](https://github.com/QiIL/invest/blob/master/post/34.tiktok的一点想法和分析近期投资热点.MD)
+- [35.新时期促进集成电路产业和软件产业高质量发展的若干政策的个人翻译](https://github.com/QiIL/invest/blob/master/post/35.新时期促进集成电路产业和软件产业高质量发展的若干政策的个人翻译.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
