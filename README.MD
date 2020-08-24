@@ -38,5 +38,8 @@
 - [35.新时期促进集成电路产业和软件产业高质量发展的若干政策的个人翻译](https://github.com/QiIL/invest/blob/master/post/35.新时期促进集成电路产业和软件产业高质量发展的若干政策的个人翻译.MD)
 - [36.《小狗钱钱》二手感悟-存钱篇](https://github.com/QiIL/invest/blob/master/post/36.《小狗钱钱》二手感悟-存钱篇.MD)
 - [37.《小狗钱钱》二手感悟-管理负债篇](https://github.com/QiIL/invest/blob/master/post/37.《小狗钱钱》二手感悟-管理负债篇.MD)
+- [38.不要怕，只是技术性调整](https://github.com/QiIL/invest/blob/master/post/38.不要怕，只是技术性调整.MD)
+- [39.中国崛起？我对银河麒麟操作系统V10的一点小看法](https://github.com/QiIL/invest/blob/master/post/39.中国崛起？我对银河麒麟操作系统V10的一点小看法.MD)
+- [40.北京453万人将迁至雄安新区？我这样看](https://github.com/QiIL/invest/blob/master/post/40.北京453万人将迁至雄安新区？我这样看.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
