@@ -44,5 +44,7 @@
 - [41.小锋借钱记：股权质押概念小故事](https://github.com/QiIL/invest/blob/master/post/41.小锋借钱记：股权质押概念小故事.MD)
 - [42.上市公司股权质押之：小锋和大彬的国产3A之路](https://github.com/QiIL/invest/blob/master/post/42.上市公司股权质押之：小锋和大彬的国产3A之路.MD)
 - [43.美国开始大规模驱逐中国留学生，这只是美国保持科技优势的开始](https://github.com/QiIL/invest/blob/master/post/43.美国开始大规模驱逐中国留学生，这只是美国保持科技优势的开始.MD)
+- [44.你方唱罢我登台，市场真是精彩连连](https://github.com/QiIL/invest/blob/master/post/44.你方唱罢我登台，市场真是精彩连连.MD)
+- [45.有色金属之镍产业分析](https://github.com/QiIL/invest/blob/master/post/45.有色金属之镍产业分析.MD)
 #### 喜欢可以关注我
 ![微信公众号：秋少耶](https://github.com/QiIL/invest/blob/master/stuff/qrcode_for_gh_76394e2531a5_344.jpg)
